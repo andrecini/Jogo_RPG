@@ -1,0 +1,8 @@
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\Exemplo_Colecoes\Exemplo_Colecoes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\Exemplo_Colecoes\Exemplo_Colecoes\obj\Debug\Exemplo_Colecoes.Main.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\Exemplo_Colecoes\Exemplo_Colecoes\obj\Debug\Exemplo_Colecoes.Properties.Resources.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\Exemplo_Colecoes\Exemplo_Colecoes\obj\Debug\Exemplo_Colecoes.csproj.GenerateResource.Cache
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\Exemplo_Colecoes\Exemplo_Colecoes\bin\Debug\Exemplo_Colecoes.exe
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\Exemplo_Colecoes\Exemplo_Colecoes\bin\Debug\Exemplo_Colecoes.pdb
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\Exemplo_Colecoes\Exemplo_Colecoes\obj\Debug\Exemplo_Colecoes.exe
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\Exemplo_Colecoes\Exemplo_Colecoes\obj\Debug\Exemplo_Colecoes.pdb
